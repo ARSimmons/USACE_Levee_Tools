@@ -30,7 +30,7 @@ These tools were created to be an add-on to the ESRI 9.3 platform. Using VBA and
 
 This project was the first of many development projects that exposed me to working with integrating ESRI products with Silverlight and VBA/VB.Net. It also gave me my first working experience role within a GIS development team. 
 
-Ms. Muenks 2010 ESRI presentation offers more details regarding this project: [USACE Levee Inventory Tools]("http://proceedings.esri.com/library/userconf/feduc10/papers/user/feduc10_muenks_supporting_usa_cenld.pdf "USACE Levee Inventory Tools") .
+Ms. Muenks 2010 ESRI presentation offers more details regarding this project: [USACE Levee Inventory Tools](http://proceedings.esri.com/library/userconf/feduc10/papers/user/feduc10_muenks_supporting_usa_cenld.pdf "USACE Levee Inventory Tools") .
 
 ![LeveeCross](https://raw.github.com/ARSimmons/USACE_Levee_Tools_Silverlight_VB.Net_ESRI_9.3/master/images/LeveeCross.JPG)
 
